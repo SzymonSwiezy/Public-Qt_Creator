@@ -1,0 +1,8 @@
+root name
+    1.galaz
+        1.1.galaz
+    2.galaz
+        2.1.galaz
+            2.1.1.galaz
+        2.2.galaz
+    3.galaz
